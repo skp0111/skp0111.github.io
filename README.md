@@ -1,2 +1,3 @@
 # Portfolio
-My portfolio Website built using HTML, CSS, Bootstrap and JavaScript
+My Personal Portfolio Website(beta version) hosted github pages
+No template has been used
